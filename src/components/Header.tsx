@@ -12,7 +12,7 @@ const Header: React.FC = () => {
     <header className="bg-blue-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold">
-          <Link to="/">Funngro</Link>
+          <Link to="/funngro/">Funngro</Link>
         </h1>
         <nav>
           <Link to="/funngro/teen" className="px-4">Teen</Link>
